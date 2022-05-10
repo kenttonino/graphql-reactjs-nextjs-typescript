@@ -1,4 +1,5 @@
-# MetaJob Frontend
+## Description
+- This is only a template for future projects.
 
 ## Docker Setup
 ```
