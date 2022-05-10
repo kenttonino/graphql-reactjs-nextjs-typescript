@@ -27,3 +27,6 @@ the docker. Below are the following commands:
 ```
 
 - For ease of convenience in development, you can use the VSCode extensions for docker or the Docker desktop.
+
+## Recordings
+https://user-images.githubusercontent.com/87509953/167068939-7d3e28d6-9cf0-4582-b60e-6f5e8d0b0ffd.mp4
