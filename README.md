@@ -1,6 +1,13 @@
 ## Description
 - This is only a template for future projects.
 
+## Technology Stack
+- ReactJS
+- NextJS
+- GraphQL
+- TypeScript
+- Docker
+
 ## Docker Setup
 ```
 docker volume rm $(docker volume ls -q)
