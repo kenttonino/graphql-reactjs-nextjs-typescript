@@ -9,8 +9,6 @@ docker compose up --build -d
 docker compose logs -f
 ```
 
-<br />
-
 ## Note
 - Since we are using the docker virtual environment, we run the script inside
 the docker. Below are the following commands:
