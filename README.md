@@ -1,7 +1,7 @@
 ### Description
 - This is only a template for future projects.
 
-### Technology | Packages Used
+### Technologies | Packages Used
 - Frontend: ReactJS, NextJS, GraphQL, TypeScript
 - Other: Docker
 
